@@ -26,6 +26,14 @@ O objetivo e demonstrar como construir um chat com:
 O projeto e didatico. Ele mostra os conceitos principais sem adicionar banco de
 dados, filas, salas privadas ou infraestrutura de producao.
 
+## Exemplo visual
+
+A imagem abaixo mostra dois usuarios conectados ao chat local. Cada tela exibe
+as mesmas mensagens, mas destaca em azul as mensagens enviadas pelo usuario
+logado naquela janela.
+
+![Exemplo do chat em tempo real](docs/chat-example.svg)
+
 ## Como funciona
 
 O fluxo principal e:

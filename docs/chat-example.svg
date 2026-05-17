@@ -1,0 +1,66 @@
+<svg width="1918" height="900" viewBox="0 0 1918 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1918" height="900" fill="#edf2f7"/>
+  <rect x="0" y="0" width="958" height="70" fill="#2563eb"/>
+  <rect x="959" y="0" width="959" height="70" fill="#2563eb"/>
+
+  <text x="28" y="41" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="700">Chat Local</text>
+  <circle cx="799" cy="35" r="18" fill="#a3a3a3"/>
+  <text x="793" y="43" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="700">D</text>
+  <text x="826" y="41" fill="white" font-family="Arial, sans-serif" font-size="20">Danilo</text>
+  <path d="M901 25h12m0 0-5-5m5 5-5 5M899 20v25h11" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="987" y="41" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="700">Chat Local</text>
+  <circle cx="1765" cy="35" r="18" fill="#a3a3a3"/>
+  <text x="1758" y="43" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="700">M</text>
+  <text x="1792" y="41" fill="white" font-family="Arial, sans-serif" font-size="20">Maria</text>
+  <path d="M1867 25h12m0 0-5-5m5 5-5 5M1865 20v25h11" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="27" y="106" width="905" height="718" rx="14" fill="#f8fafc"/>
+  <rect x="27" y="106" width="905" height="718" rx="14" stroke="#d7dce3"/>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.25"/>
+  </filter>
+  <rect x="27" y="106" width="905" height="718" rx="14" fill="#f8fafc" filter="url(#shadow)"/>
+
+  <text x="815" y="148" fill="#111827" font-family="Arial, sans-serif" font-size="14">Danilo - 13:25</text>
+  <rect x="744" y="162" width="161" height="49" rx="12" fill="#2563eb" filter="url(#shadow)"/>
+  <text x="761" y="192" fill="white" font-family="Arial, sans-serif" font-size="19">Ol&#225;, tudo bem?</text>
+
+  <text x="54" y="243" fill="#111827" font-family="Arial, sans-serif" font-size="14">Maria - 13:25</text>
+  <rect x="54" y="256" width="187" height="51" rx="10" fill="white" filter="url(#shadow)"/>
+  <text x="72" y="286" fill="#111827" font-family="Arial, sans-serif" font-size="19">Tudo bem e voc&#234;?</text>
+
+  <text x="815" y="340" fill="#111827" font-family="Arial, sans-serif" font-size="14">Danilo - 13:26</text>
+  <rect x="782" y="352" width="123" height="50" rx="12" fill="#2563eb" filter="url(#shadow)"/>
+  <text x="800" y="382" fill="white" font-family="Arial, sans-serif" font-size="19">Estou bem</text>
+
+  <rect x="27" y="742" width="905" height="82" rx="0" fill="white"/>
+  <line x1="27" y1="742" x2="932" y2="742" stroke="#d7dce3"/>
+  <rect x="46" y="760" width="738" height="45" rx="13" fill="white" stroke="#2563eb" stroke-width="2"/>
+  <text x="61" y="790" fill="#9ca3af" font-family="Arial, sans-serif" font-size="18">Digite sua mensagem...</text>
+  <rect x="803" y="760" width="111" height="45" rx="13" fill="#2563eb" filter="url(#shadow)"/>
+  <text x="815" y="789" fill="white" font-family="Arial, sans-serif" font-size="17">ENVIAR</text>
+  <path d="M888 773l20 10-20 10 4-10-4-10z" fill="white"/>
+
+  <rect x="987" y="106" width="905" height="718" rx="14" fill="#f8fafc" filter="url(#shadow)"/>
+
+  <text x="1014" y="148" fill="#111827" font-family="Arial, sans-serif" font-size="14">Danilo - 13:25</text>
+  <rect x="1014" y="162" width="161" height="49" rx="10" fill="white" filter="url(#shadow)"/>
+  <text x="1031" y="192" fill="#111827" font-family="Arial, sans-serif" font-size="19">Ol&#225;, tudo bem?</text>
+
+  <text x="1780" y="243" fill="#111827" font-family="Arial, sans-serif" font-size="14">Maria - 13:25</text>
+  <rect x="1678" y="256" width="187" height="51" rx="12" fill="#2563eb" filter="url(#shadow)"/>
+  <text x="1696" y="286" fill="white" font-family="Arial, sans-serif" font-size="19">Tudo bem e voc&#234;?</text>
+
+  <text x="1014" y="340" fill="#111827" font-family="Arial, sans-serif" font-size="14">Danilo - 13:26</text>
+  <rect x="1014" y="352" width="123" height="50" rx="10" fill="white" filter="url(#shadow)"/>
+  <text x="1031" y="382" fill="#111827" font-family="Arial, sans-serif" font-size="19">Estou bem</text>
+
+  <rect x="987" y="742" width="905" height="82" rx="0" fill="white"/>
+  <line x1="987" y1="742" x2="1892" y2="742" stroke="#d7dce3"/>
+  <rect x="1006" y="760" width="738" height="45" rx="13" fill="white" stroke="#c7cbd1"/>
+  <text x="1021" y="790" fill="#9ca3af" font-family="Arial, sans-serif" font-size="18">Digite sua mensagem...</text>
+  <rect x="1763" y="760" width="111" height="45" rx="13" fill="#2563eb" filter="url(#shadow)"/>
+  <text x="1775" y="789" fill="white" font-family="Arial, sans-serif" font-size="17">ENVIAR</text>
+  <path d="M1848 773l20 10-20 10 4-10-4-10z" fill="white"/>
+</svg>
